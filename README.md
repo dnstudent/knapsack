@@ -1,0 +1,2 @@
+# knapsack
+Esame di Algoritmi
